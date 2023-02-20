@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af785cf1.css",
+    "main.js": "/static/js/main.4727fa66.js",
+    "static/js/787.1d56b8ed.chunk.js": "/static/js/787.1d56b8ed.chunk.js",
+    "static/media/logo-header.png": "/static/media/logo-header.5ab63f8a91e6d6b9f205.png",
+    "static/media/fon-mobile.png": "/static/media/fon-mobile.15e5100026992c2694cc.png",
+    "static/media/megaphone.svg": "/static/media/megaphone.8d94d2e31de68129206f82362adc6076.svg",
+    "static/media/ruble.svg": "/static/media/ruble.6dc162c019fe646e9f230690b12c437b.svg",
+    "static/media/google-docs.svg": "/static/media/google-docs.7693a47f88bd820f7ab76c03e586551f.svg",
+    "static/media/information.svg": "/static/media/information.303b4f437cfa3076fe4ac42f54cd2d5a.svg",
+    "static/media/check-mark.svg": "/static/media/check-mark.4743ea654af08468fbce5af308ec0121.svg",
+    "static/media/user.svg": "/static/media/user.6153a0f5220756c7b608a11cd0b5fae4.svg",
+    "static/media/power-button.svg": "/static/media/power-button.3ce116dd9ea7d523fe9da3d738434fc6.svg",
+    "index.html": "/index.html",
+    "main.af785cf1.css.map": "/static/css/main.af785cf1.css.map",
+    "main.4727fa66.js.map": "/static/js/main.4727fa66.js.map",
+    "787.1d56b8ed.chunk.js.map": "/static/js/787.1d56b8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af785cf1.css",
+    "static/js/main.4727fa66.js"
+  ]
+}
